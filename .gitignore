@@ -1,0 +1,5 @@
+/*.js
+/utils
+/__tests__/*
+tests
+node_modules/**
